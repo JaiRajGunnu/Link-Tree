@@ -71,6 +71,7 @@ h1 {
 p {
     color: #fff;
     font-family: 'Poppins', sans-serif;    font-style:italic;
+    text-align: center;
 }
 
 .MainBranch {
@@ -92,12 +93,12 @@ p {
     cursor:pointer;
     background: linear-gradient(90deg, rgb(64, 0, 106) 0%, rgba(253,29,29,1) 50%, rgb(174, 102, 0) 100%);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);rgb(195, 0, 0);
-    transition: 0.5s;
+    transition: 1s;
 }
 
 .node:hover{
     background:rgba(0, 0, 0, 0.575);
-    transform: scale(1.05);
+    transform: scale(1.1);
 }
 
 i.fa-brands , i.fa-solid{
@@ -122,7 +123,16 @@ i.fa-brands , i.fa-solid{
     gap:10px;
 }
 
-.fa-brands.fa-linkedin { font-size:25px;}
-.fa-brands.fa-instagram { font-size:25px;}
-.fa-brands.fa-facebook { font-size:22px;}
-.fa-brands.fa-x-twitter { font-size:21px;}
+.fa-brands.fa-linkedin,
+.fa-brands.fa-instagram,
+.fa-brands.fa-facebook, 
+.fa-brands.fa-x-twitter {
+  font-size: 25px;
+  transition:0.5s;
+  opacity:.75;
+}
+
+.fa-brands.fa-linkedin:hover, .fa-brands.fa-instagram:hover, .fa-brands.fa-facebook:hover, .fa-brands.fa-x-twitter:hover {
+  transform: scale(1.25);
+  opacity:1;
+}
