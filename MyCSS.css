@@ -79,7 +79,6 @@ span {
 }
 
 .MainBranch {
-    width:90%;
     max-width: 100%;
     gap:25px;
 }
@@ -87,12 +86,14 @@ span {
     display: flex;
     flex-direction: row;
     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
-    padding: 10px 05px;
+    padding: 30px 15px;
     flex-wrap: nowrap;
-    border-radius: 07px;
+    border-radius: 25%;
     border: 0.5px solid #ffffff57;
     cursor: pointer;
     transition: 0.5;
+    height:50px;
+    width:100%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
