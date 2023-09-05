@@ -1,7 +1,7 @@
 
 body {
     margin:0;
-    padding:25px;
+    padding:0;
     background:hsla(0, 0%, 0%, 0.976);  
 }
 
@@ -60,6 +60,7 @@ body {
 .MainClass p {
     margin: 0 0 50px 0;
 }
+
 h1 { 
     color:#fff;
     font-family: 'Hammersmith One', sans-serif;
@@ -79,20 +80,18 @@ span {
 }
 
 .MainBranch {
-    max-width: 100%;
     gap:25px;
 }
  .node {
     display: flex;
     flex-direction: row;
     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
-    padding: 30px 15px;
+    padding: 10px 30px;
     flex-wrap: nowrap;
-    border-radius: 25%;
+    border-radius:50px;
     border: 0.5px solid #ffffff57;
     cursor: pointer;
     transition: 0.5;
-    height:50px;
     width:100%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
