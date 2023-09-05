@@ -55,8 +55,5 @@
 <h3>Languages and Tools Used:</h3>
 <img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="30" height="30"/>
 <img src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png" alt="css3" width="30" height="30"/>
-<img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="Javascript" width="30" height="30"/> 
-<img src="https://img.icons8.com/?size=512&id=21895&format=png" alt="API" width="30" height="30"/>  
-<img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="30"/> 
 </div>
 <p align="right"><i>Thank You!</i></p>
