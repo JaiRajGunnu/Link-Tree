@@ -1,7 +1,7 @@
 
 body {
     margin:0;
-    padding:0;
+    padding:25px;
     background:hsla(0, 0%, 0%, 0.976);  
 }
 
@@ -61,6 +61,7 @@ body {
     margin: 0 0 50px 0;
 }
 
+
 h1 { 
     color:#fff;
     font-family: 'Hammersmith One', sans-serif;
@@ -87,15 +88,16 @@ p {
     border: 0.5px solid #ffffff57;
     border-radius:50px;
     padding: 10px 30px;
-    width:375px;
+    width:380px;
+    cursor:pointer;
     background: linear-gradient(90deg, rgb(64, 0, 106) 0%, rgba(253,29,29,1) 50%, rgb(174, 102, 0) 100%);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);rgb(195, 0, 0)
-    cursor: pointer;
-    transition: 0.5;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);rgb(195, 0, 0);
+    transition: 0.5s;
 }
 
 .node:hover{
-    background:black;
+    background:rgba(0, 0, 0, 0.575);
+    transform: scale(1.05);
 }
 
 i.fa-brands , i.fa-solid{
@@ -112,3 +114,15 @@ i.fa-brands , i.fa-solid{
     margin:0 10px;
     font-size:20px;
 }
+
+.social {
+    display:flex;
+    flex-direction: row;
+    margin:50px 0;
+    gap:10px;
+}
+
+.fa-brands.fa-linkedin { font-size:25px;}
+.fa-brands.fa-instagram { font-size:25px;}
+.fa-brands.fa-facebook { font-size:22px;}
+.fa-brands.fa-x-twitter { font-size:21px;}
