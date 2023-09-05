@@ -82,6 +82,12 @@ span {
 .MainBranch {
     gap:25px;
 }
+
+ a {
+    text-decoration: none;
+}
+
+
  .node {
     display: flex;
     flex-direction: row;
