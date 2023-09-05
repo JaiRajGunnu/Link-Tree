@@ -101,7 +101,7 @@ p {
     transform: scale(1.1);
 }
 
-i.fa-brands , i.fa-solid{
+i.fa-brands , i.fa-solid, i.fa-regular{
     color:#fff;
     line-height: 1;
     margin:1px 05px;
