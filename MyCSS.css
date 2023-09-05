@@ -72,13 +72,6 @@ p {
     font-family: 'Poppins', sans-serif;    font-style:italic;
 }
 
-span {
-    color:#fff;
-    font-family:hammersmith one;
-    margin:0 10px;
-    font-size:20px
-}
-
 .MainBranch {
     gap:25px;
 }
@@ -87,28 +80,35 @@ span {
     text-decoration: none;
 }
 
-
  .node {
     display: flex;
     flex-direction: row;
-    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
-    padding: 10px 30px;
     flex-wrap: nowrap;
-    border-radius:50px;
     border: 0.5px solid #ffffff57;
+    border-radius:50px;
+    padding: 10px 30px;
+    width:300px;
+    background: linear-gradient(90deg, rgb(64, 0, 106) 0%, rgba(253,29,29,1) 50%, rgb(174, 102, 0) 100%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);rgb(195, 0, 0)
     cursor: pointer;
     transition: 0.5;
-    width:100%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .node:hover{
     background:black;
 }
+
 i.fa-brands {
     color:#fff;
     line-height: 1;
-    margin:1px  05px;
-    font-size:  20px;;
+    margin:1px 05px;
+    font-size: 20px;
+    text-align: start;
 }
 
+.node span {
+    color:#fff;
+    font-family:hammersmith one;
+    margin:0 10px;
+    font-size:20px;
+}
