@@ -81,6 +81,7 @@ span {
 .MainBranch {
     width:90%;
     max-width: 100%;
+    gap:25px;
 }
  .node {
     display: flex;
@@ -92,7 +93,7 @@ span {
     border:1px solid grey;
     cursor:pointer;
     transition:0.5;
-    gap:30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .node:hover{
