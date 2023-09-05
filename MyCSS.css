@@ -76,6 +76,12 @@ h1 {
     text-align:center;
 }
 
+.fa-solid.fa-circle-check {
+  color:#0095f6;
+  margin:0 5px;
+  text-shadow:none;
+}
+
 p {
     color: #fff;
     font-family: 'Poppins', sans-serif;    font-style:italic;
