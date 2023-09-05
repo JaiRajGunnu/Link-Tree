@@ -2,13 +2,12 @@
 
 <h1 align="center">Hi 👋, This is Jai Raj Gunnu</h1>
 <h3 align="center"><i>I created this responsive page which can access all the links from single page itself.
-</i></h3></h3>
+</i></h3>
 <br>
 <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiao2_GzeRGwrq0PN41fS9ZKZcJTH6kQtxwaDaLvMrpsLj6fRkVwfU22Zy2cfqRPubNr3e2UO0Lf7W3ByyGe52DsibhnfO2hYREyOrjqQqFLMo5MMuSuXHkA6g61MrI2-Cq_uCzCy3fDf-Kq2AmyO3fpaNLFTDHgChh6aNJMOSsC9j0B6HCOEqWVb4LMRY/s16000/SS.png' width='100%'>
 <p align='center'><i>An sample refrence screenshot.</i></p>
 
 <h3>Links:</h3>
-
 
   🔻 **[Check Live Web Page ](https://jairaj-gunnu-links.blogspot.com/)**
 
