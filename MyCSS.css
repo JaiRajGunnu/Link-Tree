@@ -1,7 +1,8 @@
 body {
-    background: linear-gradient(to right, #000046, #1cb5e0); 
     margin:0;
     padding:25px;
+    background: linear-gradient(to right, #000046, #1cb5e0); 
+    
 }
 
 .MainClass, .MainBranch{
@@ -11,25 +12,50 @@ body {
    flex-direction: column;
 }
 
+.MainClass p {
+    margin: 0 0 50px 0;
+}
 h1 { 
     color:#fff;
     font-family: 'Hammersmith One', sans-serif;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-p, span {
+p {
     color: #fff;
     font-family: 'Poppins', sans-serif;    font-style:italic;
 }
 
-.node {
-    display: flex;
-    flex-direction: row;
+span {
+    color:#fff;
+    font-family:hammersmith one;
+    margin:0 10px;
+    font-size:20px
 }
 
+.MainBranch {
+    width:90%;
+    max-width: 100%;
+}
+ .node {
+    display: flex;
+    flex-direction: row;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    padding: 10px 05px;
+    flex-wrap: nowrap;
+    border-radius: 07px;
+    border:1px solid grey;
+    cursor:pointer;
+    transition:0.5;
+}
+
+.node:hover{
+    background:black;
+}
 i.fa-brands {
     color:#fff;
-    line-height: 1.5;
-    margin:0 05px;
+    line-height: 1;
+    margin:1px  05px;
+    font-size:  20px;;
 }
 
