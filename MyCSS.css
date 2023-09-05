@@ -90,9 +90,9 @@ span {
     padding: 10px 05px;
     flex-wrap: nowrap;
     border-radius: 07px;
-    border:1px solid grey;
-    cursor:pointer;
-    transition:0.5;
+    border: 0.5px solid #ffffff57;
+    cursor: pointer;
+    transition: 0.5;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
