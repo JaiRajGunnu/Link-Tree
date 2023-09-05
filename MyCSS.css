@@ -5,10 +5,10 @@ body {
 }
 
 .MainClass, .MainBranch{
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
 }
 
 h1 { 
@@ -20,7 +20,6 @@ h1 {
 p, span {
     color: #fff;
     font-family: 'Poppins', sans-serif;    font-style:italic;
-
 }
 
 .node {
@@ -30,6 +29,7 @@ p, span {
 
 i.fa-brands {
     color:#fff;
-    line-height: 0.4;
+    line-height: 1.5;
+    margin:0 05px;
 }
 
