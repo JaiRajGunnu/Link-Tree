@@ -9,7 +9,7 @@
 
 <h3>Links:</h3>
 
-  🔻 **[Check Live Web Page ](https://jairaj-gunnu-links.blogspot.com/)**
+  🔻 **[Check Live Web Page ](https://jairaj-gunnu-links.blogspot.com)**
 
 <h3>Triggers:</h3>
 
