@@ -4,7 +4,7 @@
 <h3 align="center"><i>I created this responsive page which can access all the links from single page itself.
 </i></h3>
 <br>
-<img src='https://pasteboard.co/PS6Y7H0d3TIy.png' width='100%'>
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLHB13FbvbgZLZ98Ll1GGexcKIBXt88rxOyQ-Xkg6Ltb0ATqIIl585fyPCMGa-GCZASfoYEaRHhI2WwWzdxvi3wCAPxvFiG2cQThxVHU3LVX-iuN9uSio_cbXMSdSLq7yJM2XxMj-q2gjBg81zqevcadFnu4iY_nh7_PQcIgRomb-FZ9mRSNYRZPwnctY/w191-h200/tick.png' width='100%'>
 <p align='center'><i>An sample refrence screenshot.</i></p>
 
 <h3>Links:</h3>
