@@ -116,12 +116,15 @@ p {
     flex-direction: row;
     flex-wrap: nowrap;
     border: 0.5px solid #ffffff57;
-    border-radius:50px;
+    border-radius: 50px;
     padding: 10px 30px;
-    width:280px;
-    cursor:pointer;
+    width: 380px;
+    margin-bottom: -20px;
+    transform: scale(0.75);
+    cursor: pointer;
     background: linear-gradient(90deg, rgb(64, 0, 106) 0%, rgba(253,29,29,1) 50%, rgb(174, 102, 0) 100%);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);rgb(195, 0, 0);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    rgb(195, 0, 0): ;
     transition: 1.5s;
 } 
 }
