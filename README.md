@@ -9,7 +9,7 @@
 
 <h3>Links:</h3>
 
-  🔻 **[Check Live Web Page ](https://jairaj-gunnu-link-tree.vercel.app/)**
+  🔻 **[Check Live Web Page ](https://jairajgunnu-links.vercel.app/)**
 
 <h3>Triggers:</h3>
 
