@@ -115,7 +115,9 @@ p {
     margin-top: -20px;
     transform: scale(0.75);
 } 
-.bio { font-size:14px; }
+.bio { font-size:14px;
+        margin-top:-07px;
+     }
 }
     
 .node:hover{
