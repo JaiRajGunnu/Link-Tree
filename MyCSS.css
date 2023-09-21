@@ -117,7 +117,7 @@ p {
 } 
   .node:hover{
     background:rgba(0, 0, 0, 0.575);
-    transform: scale(0.9);
+    transform: scale(0.80) !important;
     }
     
 .bio { font-size:14px;
