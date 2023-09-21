@@ -116,7 +116,7 @@ p {
     transform: scale(0.75);
 } 
 .bio { font-size:14px;
-        margin-top:-07px;
+        margin-top:-07px !important; 
      }
 }
     
